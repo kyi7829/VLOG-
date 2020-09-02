@@ -17,9 +17,8 @@ body{
 
 .section{
   width: 100%;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  
+  font-size:17px;
+  font-weight: bold;
 }
 
 
